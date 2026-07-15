@@ -6,7 +6,7 @@
 
 for version `1.5.6`
 ```json
-"com.harumak.unitydebugsheet" : "https://github.com/unity-package/UnityDebugSheet.git?path=/Assets/UnityDebugSheet#1.5.6",
+"com.harumak.unitydebugsheet" : "https://github.com/duchung19399/UnityDebugSheet.git?path=/Assets/UnityDebugSheet#1.5.6",
 ```
 
 [![license](https://img.shields.io/badge/LICENSE-MIT-green.svg)](LICENSE.md)
